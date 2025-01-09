@@ -1,0 +1,230 @@
+age;edu_level;fav_animals;fav_place;gender;email
+<18;Podstawowe;Brak ulubionych;;Kobieta;nwaszczyk@example.com
+25-34;Średnie;Psy;Nad wodą;Mężczyzna;rozaliaruman@example.com
+45-54;Wyższe;Psy;W lesie;Mężczyzna;pdybiec@example.org
+35-44;Średnie;Koty;W górach;Mężczyzna;eliza43@example.com
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;kapinosjan@example.net
+25-34;Wyższe;Psy;W lesie;Mężczyzna;justyna37@example.com
+25-34;Wyższe;Koty;W górach;Mężczyzna;pakosdawid@example.net
+25-34;Wyższe;Brak ulubionych;W górach;Mężczyzna;gwarmuz@example.net
+45-54;Wyższe;Psy;W górach;Kobieta;mularzmichal@example.com
+18-24;Średnie;Koty;W górach;Mężczyzna;sebastian89@example.com
+35-44;Wyższe;Brak ulubionych;W górach;Mężczyzna;malwinakrus@example.net
+25-34;Wyższe;Psy;W lesie;Kobieta;klara31@example.net
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;ksawerymazanek@example.net
+35-44;Średnie;Inne;W górach;Mężczyzna;kkolak@example.net
+45-54;Wyższe;Inne;Nad wodą;Mężczyzna;palmaks@example.org
+35-44;Średnie;Koty;Nad wodą;Mężczyzna;qkorzonek@example.org
+>=65;Wyższe;Brak ulubionych;;Mężczyzna;natasza68@example.com
+45-54;Wyższe;Psy;W górach;Mężczyzna;kurcjeremi@example.org
+35-44;Wyższe;Koty;;Mężczyzna;bmotak@example.org
+45-54;Wyższe;Koty i Psy;Nad wodą;Kobieta;radoslaw58@example.com
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;clinka@example.org
+>=65;Wyższe;Brak ulubionych;W lesie;Kobieta;tobiasz39@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;andrzej85@example.com
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;fabianstas@example.net
+45-54;Średnie;Psy;Nad wodą;Mężczyzna;blankagogol@example.com
+45-54;Wyższe;Psy;W lesie;Mężczyzna;smyklaernest@example.com
+35-44;Wyższe;Koty;W górach;Mężczyzna;udela@example.org
+35-44;Wyższe;Koty;W górach;Mężczyzna;sychmikolaj@example.org
+25-34;Wyższe;Koty;W górach;Kobieta;roksana50@example.org
+25-34;Wyższe;Koty;W górach;Mężczyzna;glakota@example.com
+55-64;Wyższe;Inne;;Mężczyzna;llew@example.net
+35-44;Średnie;Psy;Nad wodą;Kobieta;adamkabala@example.org
+35-44;Wyższe;Koty;Nad wodą;Mężczyzna;rurarzkornel@example.org
+25-34;Średnie;Inne;Inne;Mężczyzna;agnieszkawardziak@example.com
+45-54;Średnie;Koty;Inne;Mężczyzna;leonszulist@example.org
+25-34;Średnie;Psy;Nad wodą;Mężczyzna;jedrzej65@example.com
+25-34;Średnie;Inne;W górach;Mężczyzna;adrianna91@example.net
+35-44;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna;vtomys@example.com
+45-54;Średnie;Psy;W górach;Mężczyzna;maslachmelania@example.net
+25-34;Wyższe;Psy;W górach;Mężczyzna;glabudda@example.org
+45-54;Wyższe;Koty;W lesie;Mężczyzna;brankapatryk@example.net
+35-44;Wyższe;Psy;W górach;;ciepluchmaciej@example.com
+35-44;Wyższe;Brak ulubionych;W lesie;Mężczyzna;knysakadrian@example.net
+35-44;Średnie;Psy;Nad wodą;Kobieta;pikorbartek@example.com
+45-54;Wyższe;Psy;Nad wodą;Kobieta;pociaskmonika@example.net
+45-54;Średnie;Psy;Nad wodą;Mężczyzna;ljachna@example.net
+35-44;Wyższe;Inne;W górach;Mężczyzna;konrad50@example.org
+45-54;Wyższe;Psy;Nad wodą;Kobieta;blanka72@example.net
+unknown;Wyższe;Brak ulubionych;;;nicole69@example.com
+>=65;Wyższe;Brak ulubionych;W górach;Kobieta;sonia47@example.com
+45-54;Wyższe;Brak ulubionych;W górach;Kobieta;anna-mariasloka@example.com
+45-54;Wyższe;Inne;W lesie;Kobieta;fczosnyka@example.net
+25-34;Wyższe;Psy;Inne;Kobieta;tola73@example.net
+18-24;Wyższe;Brak ulubionych;W górach;Mężczyzna;dheleniak@example.com
+35-44;Wyższe;Psy;W lesie;Mężczyzna;dziudafabian@example.com
+25-34;Średnie;Koty;W lesie;Mężczyzna;krzysztof98@example.net
+55-64;Wyższe;Psy;W górach;Mężczyzna;karolczubaszek@example.com
+35-44;Wyższe;Psy;W górach;Mężczyzna;patalasmaks@example.org
+35-44;Wyższe;Psy;W lesie;Mężczyzna;artur59@example.com
+35-44;Wyższe;Inne;Nad wodą;Mężczyzna;machaewelina@example.com
+45-54;Wyższe;Psy;W górach;Mężczyzna;mareklitwinczuk@example.com
+35-44;Wyższe;Inne;Nad wodą;Mężczyzna;wiesiolekfabian@example.com
+35-44;Średnie;Brak ulubionych;;Kobieta;dzidekewa@example.org
+35-44;Wyższe;Koty i Psy;W górach;Kobieta;marcelradziewicz@example.org
+35-44;Wyższe;Koty;W górach;Mężczyzna;zacharekszymon@example.org
+>=65;Wyższe;Brak ulubionych;W górach;Mężczyzna;pbatog@example.org
+45-54;Wyższe;Inne;Inne;Mężczyzna;stefanrobaszkiewicz@example.net
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna;jbartkowicz@example.net
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;siergiejinga@example.net
+25-34;Wyższe;Psy;Nad wodą;Kobieta;melaniawojtaszak@example.com
+35-44;Wyższe;Inne;Nad wodą;Kobieta;machowiczkrystyna@example.com
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna;araszkiewiczcezary@example.org
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna;leonardsiewiera@example.com
+45-54;Wyższe;Koty i Psy;;Mężczyzna;inga96@example.com
+35-44;Wyższe;Psy;W górach;Mężczyzna;kurzydlodamian@example.org
+35-44;Wyższe;Psy;W lesie;Kobieta;okrzywon@example.org
+55-64;Wyższe;Koty i Psy;Nad wodą;Mężczyzna;adrianna29@example.org
+35-44;Wyższe;Psy;;Kobieta;wesolakazimierz@example.com
+25-34;Wyższe;Psy;W lesie;Kobieta;tadlaapolonia@example.net
+35-44;Wyższe;Psy;;Mężczyzna;gjakiel@example.com
+25-34;Wyższe;Inne;W górach;Mężczyzna;arkadiuszdudala@example.net
+55-64;Wyższe;Psy;;Mężczyzna;gebauerjozef@example.net
+18-24;Średnie;Psy;W górach;Mężczyzna;borys65@example.org
+35-44;Wyższe;Psy;Nad wodą;Kobieta;otyniec@example.org
+45-54;Wyższe;Psy;;Mężczyzna;xgalica@example.com
+35-44;Wyższe;Inne;Inne;Kobieta;karol68@example.com
+45-54;Wyższe;Psy;Nad wodą;Kobieta;simonrobert@example.com
+35-44;Wyższe;Brak ulubionych;W górach;Mężczyzna;kawulokaurelia@example.com
+45-54;Średnie;Psy;W górach;Mężczyzna;gagalaliwia@example.org
+25-34;Wyższe;Psy;Nad wodą;Mężczyzna;kaja80@example.net
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;adrianglegola@example.net
+25-34;Wyższe;Inne;W lesie;Mężczyzna;bwojs@example.net
+25-34;Średnie;Psy;W górach;Mężczyzna;pmrozowicz@example.org
+45-54;Średnie;Inne;W lesie;Mężczyzna;mkaszkowiak@example.org
+unknown;Wyższe;Psy;Nad wodą;Kobieta;ukut@example.com
+35-44;Wyższe;Psy;W lesie;Mężczyzna;eliza17@example.org
+45-54;Wyższe;Psy;W lesie;Mężczyzna;kazimierzkorda@example.net
+55-64;Wyższe;Psy;W lesie;Mężczyzna;awrochna@example.com
+35-44;Średnie;Psy;W lesie;Kobieta;dawid91@example.com
+35-44;Wyższe;Psy;;Mężczyzna;ahutyra@example.org
+35-44;Wyższe;Psy;Nad wodą;Kobieta;alex71@example.com
+35-44;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna;latoszekkaja@example.org
+35-44;Wyższe;Brak ulubionych;;Mężczyzna;roksana52@example.org
+45-54;Średnie;Inne;Inne;Mężczyzna;adastaniewicz@example.com
+45-54;Średnie;Brak ulubionych;W górach;Mężczyzna;chadajiwo@example.com
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna;ziarekdariusz@example.org
+35-44;Średnie;Psy;W górach;Mężczyzna;igorlisak@example.com
+35-44;Wyższe;Koty;W górach;Kobieta;grzegorzkurpisz@example.net
+45-54;Wyższe;Psy;Nad wodą;Kobieta;kornelia55@example.com
+25-34;Średnie;Koty;W lesie;Mężczyzna;praczykklara@example.net
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna;ada95@example.net
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna;csmetek@example.net
+35-44;Wyższe;Koty;W górach;Mężczyzna;szymon87@example.net
+45-54;Wyższe;Psy;Inne;Mężczyzna;dariuszwojtaszak@example.net
+45-54;Wyższe;Psy;W lesie;Mężczyzna;cyprian34@example.com
+25-34;Wyższe;Koty;;Mężczyzna;gchojna@example.net
+45-54;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna;rozalia03@example.com
+45-54;Wyższe;Inne;W lesie;Mężczyzna;sebastianzapasnik@example.com
+45-54;Wyższe;Psy;W lesie;Mężczyzna;mareknatanek@example.org
+25-34;Wyższe;Psy;W górach;Mężczyzna;nkosciesza@example.com
+45-54;Średnie;Inne;W górach;Mężczyzna;iszelest@example.org
+18-24;Średnie;Psy;Nad wodą;Mężczyzna;ryszard27@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;clapaadrianna@example.net
+45-54;Wyższe;Psy;W lesie;Mężczyzna;stanislawhanke@example.net
+>=65;Wyższe;Psy;Nad wodą;Mężczyzna;smizak@example.org
+35-44;Wyższe;Koty;W górach;Mężczyzna;damekernest@example.org
+35-44;Wyższe;Psy;Inne;Mężczyzna;afidler@example.net
+45-54;Wyższe;Psy;;Kobieta;marekwaleczek@example.com
+45-54;Wyższe;Inne;Nad wodą;Mężczyzna;marcinbartkowicz@example.net
+35-44;Wyższe;Brak ulubionych;W lesie;Mężczyzna;alexnikolajuk@example.org
+18-24;Średnie;Psy;W górach;Mężczyzna;krystiankleina@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;dariuszfurga@example.net
+45-54;Wyższe;Koty;W lesie;Mężczyzna;apawliczak@example.net
+35-44;Wyższe;Inne;W górach;Mężczyzna;szymon19@example.net
+55-64;Wyższe;Psy;Nad wodą;Mężczyzna;julita23@example.net
+35-44;Wyższe;Koty;W górach;Mężczyzna;cezarymyszak@example.com
+35-44;Wyższe;Psy;W górach;Mężczyzna;aurelia86@example.net
+45-54;Wyższe;Psy;W lesie;Kobieta;trawkanikodem@example.com
+35-44;Wyższe;Psy;Nad wodą;Kobieta;nbernatek@example.org
+18-24;Średnie;Inne;W górach;Mężczyzna;esosniak@example.org
+45-54;Średnie;Koty;W lesie;Mężczyzna;janasikstefan@example.net
+25-34;Wyższe;Psy;;Mężczyzna;makielasonia@example.org
+45-54;Wyższe;Inne;W górach;Mężczyzna;kkral@example.net
+35-44;Średnie;Koty;W górach;Mężczyzna;spolnikmilosz@example.net
+45-54;Wyższe;Psy;W lesie;Kobieta;zajkotymon@example.org
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna;emil19@example.net
+25-34;Wyższe;Psy;W lesie;Mężczyzna;lewkacper@example.com
+25-34;Wyższe;Psy;Nad wodą;Mężczyzna;maksymiliangolus@example.com
+45-54;Wyższe;Koty;;Mężczyzna;warmuzmarianna@example.com
+35-44;Wyższe;Brak ulubionych;Nad wodą;Kobieta;dorotalatoszek@example.net
+35-44;Średnie;Psy;W lesie;Mężczyzna;anitaderylo@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;golotapawel@example.org
+45-54;Wyższe;Inne;W górach;Mężczyzna;zacharekmalwina@example.org
+25-34;Wyższe;Koty;;Mężczyzna;radoslawsubocz@example.org
+25-34;Wyższe;Psy;Nad wodą;Kobieta;mateusz59@example.net
+25-34;Średnie;Psy;W górach;Mężczyzna;grzechalbert@example.net
+55-64;Wyższe;Inne;;Mężczyzna;sara56@example.net
+55-64;Wyższe;Koty;Nad wodą;Mężczyzna;karolwelc@example.net
+35-44;Wyższe;Koty i Psy;W górach;Kobieta;fnojman@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;nszarzec@example.net
+25-34;Wyższe;Psy;W górach;Kobieta;adablock@example.com
+45-54;Wyższe;Brak ulubionych;W lesie;Mężczyzna;nicolekleban@example.org
+18-24;Średnie;Koty;W górach;Kobieta;xbudzich@example.org
+25-34;Wyższe;Psy;W górach;Mężczyzna;ipietrak@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;zkusyk@example.net
+25-34;Średnie;Koty;;Mężczyzna;olga34@example.com
+25-34;Wyższe;Psy;W górach;Kobieta;nieborakarkadiusz@example.net
+35-44;Wyższe;Psy;W górach;Mężczyzna;tadeusz37@example.net
+45-54;Wyższe;Koty;W lesie;Kobieta;igor74@example.com
+35-44;Wyższe;Psy;W górach;Kobieta;epachla@example.org
+25-34;Średnie;Brak ulubionych;W górach;Kobieta;htrzop@example.com
+45-54;Wyższe;Koty;W lesie;Mężczyzna;miotkesara@example.org
+35-44;Wyższe;Psy;W górach;Mężczyzna;gzmija@example.org
+35-44;Wyższe;Psy;Nad wodą;Kobieta;vzeman@example.org
+18-24;Średnie;Koty;W lesie;Mężczyzna;sstarek@example.com
+55-64;Wyższe;Psy;W lesie;Mężczyzna;toloczkokonrad@example.net
+45-54;Wyższe;Psy;W górach;Mężczyzna;huberttadeusz@example.com
+45-54;Wyższe;Psy;W górach;Mężczyzna;anastazjakanarek@example.org
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna;tymon29@example.com
+55-64;Wyższe;Brak ulubionych;W lesie;Kobieta;soniagrabara@example.com
+35-44;Średnie;Inne;Nad wodą;Mężczyzna;franciszekpeciak@example.org
+35-44;Wyższe;Psy;W górach;Mężczyzna;hrynkiewiczleonard@example.com
+35-44;Wyższe;Inne;W górach;Mężczyzna;kubanfranciszek@example.com
+25-34;Wyższe;Inne;W lesie;Mężczyzna;budychpatryk@example.net
+45-54;Średnie;Koty;;Kobieta;mcylwik@example.net
+45-54;Wyższe;Koty;W górach;Mężczyzna;apolonia24@example.org
+25-34;Wyższe;Psy;W lesie;Mężczyzna;jacek19@example.com
+45-54;Wyższe;Koty;;Kobieta;jan89@example.org
+18-24;Wyższe;Inne;;Mężczyzna;uzarliwia@example.com
+45-54;Wyższe;Psy;;Mężczyzna;nicolestiller@example.com
+35-44;Średnie;Psy;Nad wodą;Mężczyzna;sara94@example.net
+35-44;Wyższe;Psy;W górach;Mężczyzna;elukasz@example.com
+35-44;Wyższe;Inne;Nad wodą;Kobieta;stefan14@example.com
+45-54;Wyższe;Koty;Nad wodą;Mężczyzna;maksymilianlyskawa@example.net
+35-44;Wyższe;Psy;W górach;Kobieta;bhewelt@example.com
+35-44;Wyższe;Psy;W lesie;Mężczyzna;monika59@example.net
+55-64;Wyższe;Koty;W lesie;Mężczyzna;mitekignacy@example.net
+>=65;Wyższe;Psy;Nad wodą;Mężczyzna;kamillichon@example.org
+35-44;Wyższe;Koty;Nad wodą;Kobieta;iwokacperczyk@example.com
+35-44;Wyższe;Psy;;Mężczyzna;antoni53@example.net
+35-44;Wyższe;Psy;W lesie;Mężczyzna;chladleonard@example.net
+45-54;Wyższe;Psy;W górach;Mężczyzna;irozumek@example.com
+18-24;Średnie;Psy;Nad wodą;Mężczyzna;gajaharasimiuk@example.net
+45-54;Średnie;Psy;Nad wodą;Mężczyzna;robertchorazewicz@example.net
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;arkadiusz02@example.net
+45-54;Średnie;Brak ulubionych;W górach;Mężczyzna;gillsebastian@example.org
+>=65;Średnie;Psy;;Mężczyzna;hsimon@example.net
+45-54;Wyższe;Psy;Nad wodą;Mężczyzna;marek90@example.net
+45-54;Wyższe;Psy;W górach;Mężczyzna;doroznatasza@example.net
+35-44;Wyższe;Brak ulubionych;Nad wodą;Mężczyzna;marika86@example.net
+45-54;Wyższe;Psy;W lesie;Mężczyzna;olesiejukprzemyslaw@example.net
+45-54;Wyższe;Psy;;Kobieta;jachimczykanna-maria@example.com
+45-54;Wyższe;Koty i Psy;Nad wodą;Mężczyzna;jankowiczwiktor@example.com
+45-54;Wyższe;Koty;W górach;Mężczyzna;ssprycha@example.net
+45-54;Wyższe;Psy;W lesie;Mężczyzna;fabian25@example.org
+45-54;Wyższe;Psy;Nad wodą;Kobieta;ulipok@example.org
+35-44;Wyższe;Psy;Nad wodą;Mężczyzna;ignacy36@example.org
+45-54;Wyższe;Inne;Nad wodą;Kobieta;marika30@example.org
+45-54;Wyższe;Psy;W górach;Mężczyzna;kamila20@example.com
+55-64;Wyższe;Inne;;Mężczyzna;yrogal@example.net
+45-54;Wyższe;Psy;W górach;Kobieta;otrzmiel@example.net
+25-34;Wyższe;Koty;Nad wodą;Mężczyzna;vpuc@example.com
+45-54;Wyższe;Psy;W górach;Kobieta;yjonak@example.com
+35-44;Wyższe;Inne;;Kobieta;julian96@example.net
+35-44;Wyższe;Koty;Inne;Kobieta;rafalbarteczko@example.com
+45-54;Wyższe;Inne;W lesie;Mężczyzna;aniolamelania@example.org
+25-34;Wyższe;Psy;W górach;Mężczyzna;hszymaniuk@example.org
+35-44;Wyższe;Brak ulubionych;W górach;Mężczyzna;lpraczyk@example.net
+45-54;Wyższe;Koty;Nad wodą;Mężczyzna;mieszko54@example.net
