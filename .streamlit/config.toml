@@ -1,0 +1,6 @@
+   [theme]
+   primaryColor = "#F39C12"  # Change this to your desired primary color
+   backgroundColor = "#FFFFFF"  # Light background color
+   secondaryBackgroundColor = "#F0F0F5"  # Light secondary background color
+   textColor = "#000000"  # Text color
+   font = "sans serif"  # Font type
